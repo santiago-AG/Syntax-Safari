@@ -33,7 +33,7 @@ Git
 
 		python app.py
 
-	The connect to the website "localhost:5000"
+	Then connect to the website "localhost:5000"
 
 
 
