@@ -2,8 +2,8 @@ Syntax Safari - Flask-based web app running on virtualenv for development. Instr
 
 
 ### Requirements ###
-Python 3.3+
-Git
+1. Python 3.3+
+2. Git
 
 
 ### Installation ###
